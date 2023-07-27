@@ -1,1 +1,21 @@
 /* Add application styles & imports to this file! */
+.codebox {
+  -webkit-text-size-adjust: 100%;
+  tab-size: 4;
+  font-family: Inter var,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-variation-settings: normal;
+  font-feature-settings: "cv02","cv03","cv04","cv11";
+  color-scheme: dark;
+  --scroll-mt: 6.3125rem;
+  line-height: inherit;
+  -webkit-font-smoothing: antialiased;
+  --tw-bg-opacity: 1;
+  --tw-text-opacity: 1;
+  color: rgb(148 163 184/var(--tw-text-opacity));
+  box-sizing: border-box;
+  border: 0 solid #e5e7eb;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  grid-column: span 6/span 6;
+}
